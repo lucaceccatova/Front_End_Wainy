@@ -11,7 +11,7 @@ import { ChatbotComponent } from './Container/chatbot/chatbot.component';
   declarations: [
     AppComponent,
     SplashComponent,
-    ChatbotComponent
+    ChatbotComponent,
   ],
   imports: [
     BrowserModule,

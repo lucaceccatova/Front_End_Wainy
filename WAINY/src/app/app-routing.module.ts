@@ -11,7 +11,7 @@ const router :Routes=[
     component:SplashComponent
     },
     {
-      path:'splash',
+      path:'wainy',
       component:ChatbotComponent
       }
 ];

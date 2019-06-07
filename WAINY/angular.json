@@ -28,7 +28,9 @@
             ],
             "styles": [
               "src/styles.scss",
-              "node_modules/bootstrap/dist/css/bootstrap.min.css"
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
+              "../node_modules/botframework-webchat/botchat.css",
+              "../node_modules/botframework-webchat/botchat-fullwindow.css"
 
 
             ],
