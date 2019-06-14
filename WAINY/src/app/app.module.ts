@@ -5,6 +5,7 @@ import { AppComponent } from './app.component';
 import { AppRoutingModule } from './app-routing.module';
 import {SplashComponent } from './Container/splash/splash.component';
 import { ChatbotComponent } from './Container/chatbot/chatbot.component';
+import { MessageComponent } from './Container/message/message.component';
 
 
 @NgModule({
@@ -12,6 +13,7 @@ import { ChatbotComponent } from './Container/chatbot/chatbot.component';
     AppComponent,
     SplashComponent,
     ChatbotComponent,
+    MessageComponent,
   ],
   imports: [
     BrowserModule,

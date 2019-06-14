@@ -46,4 +46,11 @@ body {
     float: left;
     color: #999;
   }
-  
+  #input_msg
+{
+  overflow: hidden;
+  bottom: 0;
+  margin-bottom: 4%;
+  position: fixed;
+  width: 100%;
+}
